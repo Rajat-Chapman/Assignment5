@@ -231,7 +231,7 @@ void displayOptions() {
 int main (int argc, char** argv) {
 
     //FOR TESTING
-    fillTrees();
+    //fillTrees();
 
     //USER INPUT SECTION
     //vars for storing user input
